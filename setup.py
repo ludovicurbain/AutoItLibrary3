@@ -94,7 +94,7 @@ if __name__ == "__main__":
           description  = "AutoItLibrary for Robot Framework",
           author       = "Martin Taylor",
           author_email = "cmtaylor@ti.com",
-          url          = "http://code.google.com/p/robotframework-autoitlibrary/",
+          url          = "https://github.com/ludovicurbain/AutoItLibrary3",
           license      = "Apache License 2.0",
           platforms    = "Microsoft Windows",
           classifiers  = CLASSIFIERS.splitlines(),

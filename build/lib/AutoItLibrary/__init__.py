@@ -1,5 +1,5 @@
 """
-Package: robotframework-AutoItLibrary
+Package: robotframework-AutoItLibrary3
 Module:	 AutoItLibrary
 Purpose: Provides a Robot Framework keyword wrapper for the freeware AutoIt tool
 		 (http://www.autoitscript.com/autoit3/index.shtml) via AutoIt's AutoItX.dll COM object.
